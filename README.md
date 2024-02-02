@@ -1,1 +1,2 @@
 # git-cours
+## notes
